@@ -20,4 +20,8 @@ solved problems
 | [0193-valid-phone-numbers](https://github.com/Manada-57/leetcode/tree/main/0193-valid-phone-numbers/) | Easy |
 | [0194-transpose-file](https://github.com/Manada-57/leetcode/tree/main/0194-transpose-file/) | Medium |
 | [0195-tenth-line](https://github.com/Manada-57/leetcode/tree/main/0195-tenth-line/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Manada-57/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
