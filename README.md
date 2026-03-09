@@ -27,6 +27,7 @@ solved problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Manada-57/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manada-57/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -36,4 +37,8 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manada-57/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Manada-57/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
