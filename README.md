@@ -69,4 +69,16 @@ solved problems
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Manada-57/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Manada-57/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Manada-57/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Manada-57/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Manada-57/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
