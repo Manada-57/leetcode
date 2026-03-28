@@ -14,6 +14,7 @@ solved problems
 | [0190-reverse-bits](https://github.com/Manada-57/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Manada-57/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/Manada-57/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/Manada-57/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Shell
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@ solved problems
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0338-counting-bits](https://github.com/Manada-57/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Manada-57/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manada-57/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Sliding Window
