@@ -42,11 +42,13 @@ solved problems
 | [0338-counting-bits](https://github.com/Manada-57/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Manada-57/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
+| [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manada-57/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Manada-57/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manada-57/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -99,6 +101,7 @@ solved problems
 | [0371-sum-of-two-integers](https://github.com/Manada-57/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0470-implement-rand10-using-rand7](https://github.com/Manada-57/leetcode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
+| [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,4 +119,5 @@ solved problems
 | ------- | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/Manada-57/leetcode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
+| [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
 <!---LeetCode Topics End-->
