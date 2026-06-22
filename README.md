@@ -96,8 +96,21 @@ solved problems
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Manada-57/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0470-implement-rand10-using-rand7](https://github.com/Manada-57/leetcode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
+## Rejection Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Manada-57/leetcode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Manada-57/leetcode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
+## Probability and Statistics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Manada-57/leetcode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
 <!---LeetCode Topics End-->
