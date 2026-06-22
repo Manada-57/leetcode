@@ -33,6 +33,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Manada-57/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Manada-57/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manada-57/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/Manada-57/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Manada-57/leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -41,6 +42,7 @@ solved problems
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Manada-57/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0338-counting-bits](https://github.com/Manada-57/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Manada-57/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
@@ -134,4 +136,8 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/Manada-57/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Manada-57/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 <!---LeetCode Topics End-->
