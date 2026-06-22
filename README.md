@@ -67,11 +67,13 @@ solved problems
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/Manada-57/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Manada-57/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Manada-57/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Manada-57/leetcode/tree/main/0383-ransom-note/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@ solved problems
 | [0219-contains-duplicate-ii](https://github.com/Manada-57/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1093-statistics-from-a-large-sample](https://github.com/Manada-57/leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Manada-57/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -112,6 +115,7 @@ solved problems
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1093-statistics-from-a-large-sample](https://github.com/Manada-57/leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Manada-57/leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
