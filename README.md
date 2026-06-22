@@ -98,6 +98,7 @@ solved problems
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Manada-57/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Manada-57/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3285-find-indices-of-stable-mountains](https://github.com/Manada-57/leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
