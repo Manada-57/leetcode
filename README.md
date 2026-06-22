@@ -6,6 +6,7 @@ solved problems
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manada-57/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0190-reverse-bits](https://github.com/Manada-57/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Manada-57/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Bit Manipulation
@@ -76,6 +77,7 @@ solved problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manada-57/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0217-contains-duplicate](https://github.com/Manada-57/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Manada-57/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -108,6 +110,7 @@ solved problems
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manada-57/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Rejection Sampling
 | Problem Name | Difficulty |
