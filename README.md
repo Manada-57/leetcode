@@ -47,6 +47,7 @@ solved problems
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/Manada-57/leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Manada-57/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Manada-57/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +178,5 @@ solved problems
 | [1389-create-target-array-in-the-given-order](https://github.com/Manada-57/leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Manada-57/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Manada-57/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
