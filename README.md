@@ -79,6 +79,7 @@ solved problems
 | [0217-contains-duplicate](https://github.com/Manada-57/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Manada-57/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
+| [1093-statistics-from-a-large-sample](https://github.com/Manada-57/leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ solved problems
 | [0470-implement-rand10-using-rand7](https://github.com/Manada-57/leetcode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
+| [1093-statistics-from-a-large-sample](https://github.com/Manada-57/leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +122,5 @@ solved problems
 | [0470-implement-rand10-using-rand7](https://github.com/Manada-57/leetcode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
+| [1093-statistics-from-a-large-sample](https://github.com/Manada-57/leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
 <!---LeetCode Topics End-->
