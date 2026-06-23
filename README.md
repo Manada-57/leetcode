@@ -41,6 +41,7 @@ solved problems
 | [0383-ransom-note](https://github.com/Manada-57/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Manada-57/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Manada-57/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Manada-57/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Manada-57/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Manada-57/leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1816-truncate-sentence](https://github.com/Manada-57/leetcode/tree/main/1816-truncate-sentence/) | Easy |
@@ -71,6 +72,7 @@ solved problems
 | ------- | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manada-57/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Manada-57/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Manada-57/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manada-57/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
