@@ -84,6 +84,7 @@ solved problems
 | [0771-jewels-and-stones](https://github.com/Manada-57/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manada-57/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Manada-57/leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Manada-57/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Manada-57/leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -120,6 +121,7 @@ solved problems
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Manada-57/leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manada-57/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Manada-57/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Manada-57/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Manada-57/leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
