@@ -81,6 +81,7 @@ solved problems
 | [0383-ransom-note](https://github.com/Manada-57/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Manada-57/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Manada-57/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manada-57/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Manada-57/leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Manada-57/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -97,6 +98,7 @@ solved problems
 | [0217-contains-duplicate](https://github.com/Manada-57/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Manada-57/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manada-57/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manada-57/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -106,6 +108,7 @@ solved problems
 | [0219-contains-duplicate-ii](https://github.com/Manada-57/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1093-statistics-from-a-large-sample](https://github.com/Manada-57/leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manada-57/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Manada-57/leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1720-decode-xored-array](https://github.com/Manada-57/leetcode/tree/main/1720-decode-xored-array/) | Easy |
@@ -190,4 +193,8 @@ solved problems
 | [1929-concatenation-of-array](https://github.com/Manada-57/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Manada-57/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manada-57/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
