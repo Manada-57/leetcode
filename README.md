@@ -90,6 +90,7 @@ solved problems
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Manada-57/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1603-design-parking-system](https://github.com/Manada-57/leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ solved problems
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Manada-57/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Manada-57/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1603-design-parking-system](https://github.com/Manada-57/leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +186,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/Manada-57/leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1603-design-parking-system](https://github.com/Manada-57/leetcode/tree/main/1603-design-parking-system/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Manada-57/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Manada-57/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
