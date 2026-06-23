@@ -47,6 +47,7 @@ solved problems
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manada-57/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/Manada-57/leetcode/tree/main/3110-score-of-a-string/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/Manada-57/leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Manada-57/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Manada-57/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
@@ -81,6 +82,7 @@ solved problems
 | [0389-find-the-difference](https://github.com/Manada-57/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Manada-57/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/Manada-57/leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Manada-57/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Manada-57/leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 ## Counting
