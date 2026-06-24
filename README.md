@@ -99,6 +99,7 @@ solved problems
 | [2956-find-common-elements-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Manada-57/leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Manada-57/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manada-57/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Manada-57/leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -150,6 +151,7 @@ solved problems
 | [3151-special-array-i](https://github.com/Manada-57/leetcode/tree/main/3151-special-array-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Manada-57/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Manada-57/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manada-57/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/Manada-57/leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Manada-57/leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manada-57/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -278,6 +280,7 @@ solved problems
 | [0203-remove-linked-list-elements](https://github.com/Manada-57/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Manada-57/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manada-57/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manada-57/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
