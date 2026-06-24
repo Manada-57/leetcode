@@ -93,6 +93,7 @@ solved problems
 | [0771-jewels-and-stones](https://github.com/Manada-57/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manada-57/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1656-design-an-ordered-stream](https://github.com/Manada-57/leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [2103-rings-and-rods](https://github.com/Manada-57/leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Manada-57/leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -135,6 +136,7 @@ solved problems
 | [1389-create-target-array-in-the-given-order](https://github.com/Manada-57/leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Manada-57/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1656-design-an-ordered-stream](https://github.com/Manada-57/leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1720-decode-xored-array](https://github.com/Manada-57/leetcode/tree/main/1720-decode-xored-array/) | Easy |
 | [1816-truncate-sentence](https://github.com/Manada-57/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Manada-57/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -163,6 +165,7 @@ solved problems
 | [0225-implement-stack-using-queues](https://github.com/Manada-57/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Manada-57/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1603-design-parking-system](https://github.com/Manada-57/leetcode/tree/main/1603-design-parking-system/) | Easy |
+| [1656-design-an-ordered-stream](https://github.com/Manada-57/leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,4 +278,8 @@ solved problems
 | [0203-remove-linked-list-elements](https://github.com/Manada-57/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Manada-57/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manada-57/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1656-design-an-ordered-stream](https://github.com/Manada-57/leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
 <!---LeetCode Topics End-->
