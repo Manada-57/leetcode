@@ -144,6 +144,7 @@ solved problems
 | [1656-design-an-ordered-stream](https://github.com/Manada-57/leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1720-decode-xored-array](https://github.com/Manada-57/leetcode/tree/main/1720-decode-xored-array/) | Easy |
 | [1816-truncate-sentence](https://github.com/Manada-57/leetcode/tree/main/1816-truncate-sentence/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Manada-57/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Manada-57/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Manada-57/leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -242,6 +243,7 @@ solved problems
 | [0832-flipping-an-image](https://github.com/Manada-57/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Manada-57/leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1603-design-parking-system](https://github.com/Manada-57/leetcode/tree/main/1603-design-parking-system/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Manada-57/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Manada-57/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Manada-57/leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
