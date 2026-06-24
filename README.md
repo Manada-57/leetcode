@@ -140,6 +140,7 @@ solved problems
 | [1389-create-target-array-in-the-given-order](https://github.com/Manada-57/leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Manada-57/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1534-count-good-triplets](https://github.com/Manada-57/leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Manada-57/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/Manada-57/leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1720-decode-xored-array](https://github.com/Manada-57/leetcode/tree/main/1720-decode-xored-array/) | Easy |
@@ -300,4 +301,8 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Manada-57/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1534-count-good-triplets](https://github.com/Manada-57/leetcode/tree/main/1534-count-good-triplets/) | Easy |
 <!---LeetCode Topics End-->
