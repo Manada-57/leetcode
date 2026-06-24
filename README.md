@@ -305,4 +305,12 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/Manada-57/leetcode/tree/main/1534-count-good-triplets/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Manada-57/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Manada-57/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 <!---LeetCode Topics End-->
