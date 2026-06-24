@@ -161,6 +161,7 @@ solved problems
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Manada-57/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Manada-57/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/Manada-57/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +231,7 @@ solved problems
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Manada-57/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/Manada-57/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/Manada-57/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,9 +282,14 @@ solved problems
 | [0203-remove-linked-list-elements](https://github.com/Manada-57/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Manada-57/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manada-57/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/Manada-57/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manada-57/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1656-design-an-ordered-stream](https://github.com/Manada-57/leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Manada-57/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
