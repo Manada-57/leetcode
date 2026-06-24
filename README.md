@@ -49,6 +49,7 @@ solved problems
 | [1859-sorting-the-sentence](https://github.com/Manada-57/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manada-57/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2103-rings-and-rods](https://github.com/Manada-57/leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2315-count-asterisks](https://github.com/Manada-57/leetcode/tree/main/2315-count-asterisks/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Manada-57/leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Manada-57/leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -92,6 +93,7 @@ solved problems
 | [0771-jewels-and-stones](https://github.com/Manada-57/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manada-57/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2103-rings-and-rods](https://github.com/Manada-57/leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Manada-57/leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Manada-57/leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
