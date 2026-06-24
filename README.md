@@ -145,6 +145,7 @@ solved problems
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manada-57/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Manada-57/leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [3151-special-array-i](https://github.com/Manada-57/leetcode/tree/main/3151-special-array-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Manada-57/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Manada-57/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Manada-57/leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
