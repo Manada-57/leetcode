@@ -134,6 +134,7 @@ solved problems
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Manada-57/leetcode/tree/main/0274-h-index/) | Medium |
 | [0561-array-partition](https://github.com/Manada-57/leetcode/tree/main/0561-array-partition/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Manada-57/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0832-flipping-an-image](https://github.com/Manada-57/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0912-sort-an-array](https://github.com/Manada-57/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1093-statistics-from-a-large-sample](https://github.com/Manada-57/leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
@@ -212,6 +213,7 @@ solved problems
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manada-57/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Manada-57/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manada-57/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Rejection Sampling
