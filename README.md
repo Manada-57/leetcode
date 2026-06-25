@@ -62,6 +62,7 @@ solved problems
 | [3146-permutation-difference-between-two-strings](https://github.com/Manada-57/leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Manada-57/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Manada-57/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Manada-57/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +178,7 @@ solved problems
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Manada-57/leetcode/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3637-trionic-array-i](https://github.com/Manada-57/leetcode/tree/main/3637-trionic-array-i/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manada-57/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Manada-57/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +269,7 @@ solved problems
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Manada-57/leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3379-transformed-array](https://github.com/Manada-57/leetcode/tree/main/3379-transformed-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Manada-57/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Manada-57/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
