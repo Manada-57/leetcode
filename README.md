@@ -47,6 +47,7 @@ solved problems
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manada-57/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Manada-57/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Manada-57/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Manada-57/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Manada-57/leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1816-truncate-sentence](https://github.com/Manada-57/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Manada-57/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -96,6 +97,7 @@ solved problems
 | [0383-ransom-note](https://github.com/Manada-57/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Manada-57/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Manada-57/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Manada-57/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manada-57/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/Manada-57/leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
@@ -111,6 +113,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Manada-57/leetcode/tree/main/0383-ransom-note/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Manada-57/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1603-design-parking-system](https://github.com/Manada-57/leetcode/tree/main/1603-design-parking-system/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manada-57/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
