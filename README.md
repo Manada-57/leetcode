@@ -56,6 +56,7 @@ solved problems
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2103-rings-and-rods](https://github.com/Manada-57/leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2315-count-asterisks](https://github.com/Manada-57/leetcode/tree/main/2315-count-asterisks/) | Easy |
+| [2418-sort-the-people](https://github.com/Manada-57/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Manada-57/leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Manada-57/leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Manada-57/leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
@@ -105,6 +106,7 @@ solved problems
 | [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/Manada-57/leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [2103-rings-and-rods](https://github.com/Manada-57/leetcode/tree/main/2103-rings-and-rods/) | Easy |
+| [2418-sort-the-people](https://github.com/Manada-57/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Manada-57/leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Manada-57/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -133,6 +135,7 @@ solved problems
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manada-57/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Manada-57/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2418-sort-the-people](https://github.com/Manada-57/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manada-57/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Manada-57/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 ## Array
@@ -164,6 +167,7 @@ solved problems
 | [1920-build-array-from-permutation](https://github.com/Manada-57/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Manada-57/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2418-sort-the-people](https://github.com/Manada-57/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Manada-57/leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Manada-57/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Manada-57/leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
