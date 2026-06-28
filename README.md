@@ -136,6 +136,7 @@ solved problems
 | [0912-sort-an-array](https://github.com/Manada-57/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manada-57/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manada-57/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Manada-57/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2418-sort-the-people](https://github.com/Manada-57/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manada-57/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -166,6 +167,7 @@ solved problems
 | [1720-decode-xored-array](https://github.com/Manada-57/leetcode/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Manada-57/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/Manada-57/leetcode/tree/main/1816-truncate-sentence/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manada-57/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Manada-57/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Manada-57/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -309,6 +311,7 @@ solved problems
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Manada-57/leetcode/tree/main/0561-array-partition/) | Easy |
 | [1323-maximum-69-number](https://github.com/Manada-57/leetcode/tree/main/1323-maximum-69-number/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manada-57/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
