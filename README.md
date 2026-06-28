@@ -63,6 +63,7 @@ solved problems
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Manada-57/leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Manada-57/leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3110-score-of-a-string](https://github.com/Manada-57/leetcode/tree/main/3110-score-of-a-string/) | Easy |
+| [3136-valid-word](https://github.com/Manada-57/leetcode/tree/main/3136-valid-word/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Manada-57/leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Manada-57/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Manada-57/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
