@@ -50,6 +50,7 @@ solved problems
 | [0696-count-binary-substrings](https://github.com/Manada-57/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Manada-57/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Manada-57/leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Manada-57/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Manada-57/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Manada-57/leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1816-truncate-sentence](https://github.com/Manada-57/leetcode/tree/main/1816-truncate-sentence/) | Easy |
@@ -92,6 +93,7 @@ solved problems
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manada-57/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Manada-57/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0832-flipping-an-image](https://github.com/Manada-57/leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Manada-57/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manada-57/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
@@ -205,6 +207,7 @@ solved problems
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Manada-57/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Manada-57/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Manada-57/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Manada-57/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -284,6 +287,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/Manada-57/leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Manada-57/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/Manada-57/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Manada-57/leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1603-design-parking-system](https://github.com/Manada-57/leetcode/tree/main/1603-design-parking-system/) | Easy |
