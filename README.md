@@ -79,6 +79,7 @@ solved problems
 | [0392-is-subsequence](https://github.com/Manada-57/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Manada-57/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manada-57/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -165,6 +166,7 @@ solved problems
 | [1093-statistics-from-a-large-sample](https://github.com/Manada-57/leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/Manada-57/leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manada-57/leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/Manada-57/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manada-57/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Manada-57/leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -321,6 +323,7 @@ solved problems
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/Manada-57/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Manada-57/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/Manada-57/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/Manada-57/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manada-57/leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manada-57/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
