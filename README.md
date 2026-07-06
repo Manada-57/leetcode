@@ -142,6 +142,7 @@ solved problems
 | [0389-find-the-difference](https://github.com/Manada-57/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0561-array-partition](https://github.com/Manada-57/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/Manada-57/leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/Manada-57/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manada-57/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manada-57/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -165,6 +166,7 @@ solved problems
 | [0912-sort-an-array](https://github.com/Manada-57/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1093-statistics-from-a-large-sample](https://github.com/Manada-57/leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/Manada-57/leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/Manada-57/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manada-57/leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Manada-57/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manada-57/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
