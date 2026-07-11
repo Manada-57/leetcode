@@ -9,6 +9,7 @@ solved problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Manada-57/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0190-reverse-bits](https://github.com/Manada-57/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Manada-57/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Manada-57/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/Manada-57/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manada-57/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bit Manipulation
@@ -140,6 +141,7 @@ solved problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Manada-57/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manada-57/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Manada-57/leetcode/tree/main/0274-h-index/) | Medium |
@@ -159,6 +161,7 @@ solved problems
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manada-57/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Manada-57/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Manada-57/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manada-57/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Manada-57/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -358,6 +361,7 @@ solved problems
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Manada-57/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/Manada-57/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manada-57/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Manada-57/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -447,4 +451,8 @@ solved problems
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manada-57/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Manada-57/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Manada-57/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
