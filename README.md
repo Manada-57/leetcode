@@ -34,6 +34,7 @@ solved problems
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Manada-57/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Manada-57/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 ## String
 | Problem Name | Difficulty |
