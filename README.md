@@ -39,6 +39,7 @@ solved problems
 | [0196-delete-duplicate-emails](https://github.com/Manada-57/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/Manada-57/leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Manada-57/leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/Manada-57/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/Manada-57/leetcode/tree/main/0620-not-boring-movies/) | Easy |
 ## String
 | Problem Name | Difficulty |
