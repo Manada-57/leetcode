@@ -197,6 +197,7 @@ solved problems
 | [1920-build-array-from-permutation](https://github.com/Manada-57/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Manada-57/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manada-57/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Manada-57/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Manada-57/leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manada-57/leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -263,6 +264,7 @@ solved problems
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manada-57/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/Manada-57/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Manada-57/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Manada-57/leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Manada-57/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Manada-57/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -467,6 +469,7 @@ solved problems
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Manada-57/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manada-57/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manada-57/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
