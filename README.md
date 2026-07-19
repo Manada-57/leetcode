@@ -61,6 +61,7 @@ solved problems
 | [0771-jewels-and-stones](https://github.com/Manada-57/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Manada-57/leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Manada-57/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manada-57/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Manada-57/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Manada-57/leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1816-truncate-sentence](https://github.com/Manada-57/leetcode/tree/main/1816-truncate-sentence/) | Easy |
@@ -242,6 +243,7 @@ solved problems
 | [0225-implement-stack-using-queues](https://github.com/Manada-57/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Manada-57/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Manada-57/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manada-57/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Manada-57/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Manada-57/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Design
@@ -375,6 +377,7 @@ solved problems
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Manada-57/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/Manada-57/leetcode/tree/main/0561-array-partition/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manada-57/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1323-maximum-69-number](https://github.com/Manada-57/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manada-57/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Heap (Priority Queue)
@@ -414,6 +417,7 @@ solved problems
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manada-57/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Manada-57/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
