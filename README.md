@@ -273,6 +273,7 @@ solved problems
 | [0371-sum-of-two-integers](https://github.com/Manada-57/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0470-implement-rand10-using-rand7](https://github.com/Manada-57/leetcode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
 | [0478-generate-random-point-in-a-circle](https://github.com/Manada-57/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+| [0728-self-dividing-numbers](https://github.com/Manada-57/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manada-57/leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
