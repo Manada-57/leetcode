@@ -267,6 +267,7 @@ solved problems
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Manada-57/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Manada-57/leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0263-ugly-number](https://github.com/Manada-57/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Manada-57/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0470-implement-rand10-using-rand7](https://github.com/Manada-57/leetcode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
