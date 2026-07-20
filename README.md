@@ -265,6 +265,7 @@ solved problems
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Manada-57/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Manada-57/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Manada-57/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
