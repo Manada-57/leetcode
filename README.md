@@ -15,6 +15,7 @@ solved problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Manada-57/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/Manada-57/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Manada-57/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -51,6 +52,7 @@ solved problems
 | [0010-regular-expression-matching](https://github.com/Manada-57/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/Manada-57/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manada-57/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0067-add-binary](https://github.com/Manada-57/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manada-57/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/Manada-57/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Manada-57/leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -268,6 +270,7 @@ solved problems
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Manada-57/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Manada-57/leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0067-add-binary](https://github.com/Manada-57/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0263-ugly-number](https://github.com/Manada-57/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Manada-57/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -339,6 +342,7 @@ solved problems
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Manada-57/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0832-flipping-an-image](https://github.com/Manada-57/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Manada-57/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/Manada-57/leetcode/tree/main/0867-transpose-matrix/) | Easy |
