@@ -25,6 +25,7 @@ solved problems
 | [0832-flipping-an-image](https://github.com/Manada-57/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1720-decode-xored-array](https://github.com/Manada-57/leetcode/tree/main/1720-decode-xored-array/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Manada-57/leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Manada-57/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +240,7 @@ solved problems
 | [3379-transformed-array](https://github.com/Manada-57/leetcode/tree/main/3379-transformed-array/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Manada-57/leetcode/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Manada-57/leetcode/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Manada-57/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Manada-57/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3637-trionic-array-i](https://github.com/Manada-57/leetcode/tree/main/3637-trionic-array-i/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manada-57/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -295,6 +297,7 @@ solved problems
 | [3280-convert-date-to-binary](https://github.com/Manada-57/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Manada-57/leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manada-57/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Manada-57/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3516-find-closest-person](https://github.com/Manada-57/leetcode/tree/main/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manada-57/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Manada-57/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
