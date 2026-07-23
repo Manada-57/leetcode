@@ -85,6 +85,7 @@ solved problems
 | [3280-convert-date-to-binary](https://github.com/Manada-57/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Manada-57/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Manada-57/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Manada-57/leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Manada-57/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Manada-57/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
@@ -239,6 +240,7 @@ solved problems
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manada-57/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/Manada-57/leetcode/tree/main/3379-transformed-array/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Manada-57/leetcode/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Manada-57/leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Manada-57/leetcode/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manada-57/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Manada-57/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -312,6 +314,7 @@ solved problems
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manada-57/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manada-57/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Manada-57/leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Manada-57/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Rejection Sampling
 | Problem Name | Difficulty |
@@ -454,6 +457,7 @@ solved problems
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Manada-57/leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manada-57/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
