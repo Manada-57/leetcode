@@ -61,6 +61,7 @@ solved problems
 | [0392-is-subsequence](https://github.com/Manada-57/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/Manada-57/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/Manada-57/leetcode/tree/main/0415-add-strings/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/Manada-57/leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Manada-57/leetcode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manada-57/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Manada-57/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
