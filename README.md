@@ -170,6 +170,7 @@ solved problems
 | [0389-find-the-difference](https://github.com/Manada-57/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0561-array-partition](https://github.com/Manada-57/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/Manada-57/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manada-57/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Manada-57/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Manada-57/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Manada-57/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -195,6 +196,7 @@ solved problems
 | [0274-h-index](https://github.com/Manada-57/leetcode/tree/main/0274-h-index/) | Medium |
 | [0561-array-partition](https://github.com/Manada-57/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/Manada-57/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manada-57/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manada-57/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Manada-57/leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0832-flipping-an-image](https://github.com/Manada-57/leetcode/tree/main/0832-flipping-an-image/) | Easy |
@@ -290,6 +292,7 @@ solved problems
 | [0371-sum-of-two-integers](https://github.com/Manada-57/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0470-implement-rand10-using-rand7](https://github.com/Manada-57/leetcode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
 | [0478-generate-random-point-in-a-circle](https://github.com/Manada-57/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manada-57/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Manada-57/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
