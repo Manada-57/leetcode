@@ -467,11 +467,13 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Manada-57/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Manada-57/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Manada-57/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Manada-57/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Manada-57/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Manada-57/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -490,6 +492,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Manada-57/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Manada-57/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manada-57/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Manada-57/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manada-57/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -516,6 +519,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Manada-57/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Manada-57/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manada-57/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Manada-57/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Quickselect
