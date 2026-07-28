@@ -91,6 +91,7 @@ solved problems
 | [3498-reverse-degree-of-a-string](https://github.com/Manada-57/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Manada-57/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Manada-57/leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Manada-57/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Manada-57/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Manada-57/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
@@ -187,6 +188,7 @@ solved problems
 | [2418-sort-the-people](https://github.com/Manada-57/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manada-57/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Manada-57/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Manada-57/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Manada-57/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manada-57/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Array
@@ -395,6 +397,7 @@ solved problems
 | [0561-array-partition](https://github.com/Manada-57/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/Manada-57/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manada-57/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Manada-57/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
