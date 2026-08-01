@@ -304,6 +304,7 @@ solved problems
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Manada-57/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Manada-57/leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0060-permutation-sequence](https://github.com/Manada-57/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/Manada-57/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0263-ugly-number](https://github.com/Manada-57/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -379,6 +380,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Manada-57/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0060-permutation-sequence](https://github.com/Manada-57/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/Manada-57/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Manada-57/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/Manada-57/leetcode/tree/main/0486-predict-the-winner/) | Medium |
