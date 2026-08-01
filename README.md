@@ -101,6 +101,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Manada-57/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0118-pascals-triangle](https://github.com/Manada-57/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0338-counting-bits](https://github.com/Manada-57/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Manada-57/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/Manada-57/leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -205,6 +206,7 @@ solved problems
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manada-57/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Manada-57/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0118-pascals-triangle](https://github.com/Manada-57/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manada-57/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manada-57/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Manada-57/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
