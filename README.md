@@ -108,6 +108,7 @@ solved problems
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Manada-57/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Manada-57/leetcode/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manada-57/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -325,6 +326,7 @@ solved problems
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manada-57/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/Manada-57/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Manada-57/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Manada-57/leetcode/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manada-57/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Manada-57/leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Manada-57/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -568,6 +570,7 @@ solved problems
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Manada-57/leetcode/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Manada-57/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
