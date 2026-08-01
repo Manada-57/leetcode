@@ -103,6 +103,7 @@ solved problems
 | [0010-regular-expression-matching](https://github.com/Manada-57/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0338-counting-bits](https://github.com/Manada-57/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Manada-57/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0486-predict-the-winner](https://github.com/Manada-57/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Manada-57/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -209,6 +210,7 @@ solved problems
 | [0219-contains-duplicate-ii](https://github.com/Manada-57/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Manada-57/leetcode/tree/main/0274-h-index/) | Medium |
+| [0486-predict-the-winner](https://github.com/Manada-57/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0561-array-partition](https://github.com/Manada-57/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/Manada-57/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manada-57/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -309,6 +311,7 @@ solved problems
 | [0415-add-strings](https://github.com/Manada-57/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0470-implement-rand10-using-rand7](https://github.com/Manada-57/leetcode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
 | [0478-generate-random-point-in-a-circle](https://github.com/Manada-57/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+| [0486-predict-the-winner](https://github.com/Manada-57/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manada-57/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Manada-57/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
@@ -378,6 +381,7 @@ solved problems
 | [0010-regular-expression-matching](https://github.com/Manada-57/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/Manada-57/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Manada-57/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0486-predict-the-winner](https://github.com/Manada-57/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Manada-57/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -561,4 +565,8 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Manada-57/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Manada-57/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
