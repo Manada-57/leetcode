@@ -319,6 +319,7 @@ solved problems
 | [0149-max-points-on-a-line](https://github.com/Manada-57/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/Manada-57/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/Manada-57/leetcode/tree/main/0204-count-primes/) | Medium |
+| [0223-rectangle-area](https://github.com/Manada-57/leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0263-ugly-number](https://github.com/Manada-57/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Manada-57/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -392,6 +393,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/Manada-57/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0223-rectangle-area](https://github.com/Manada-57/leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0478-generate-random-point-in-a-circle](https://github.com/Manada-57/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0812-largest-triangle-area](https://github.com/Manada-57/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Manada-57/leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
