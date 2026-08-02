@@ -221,6 +221,7 @@ solved problems
 | [0628-maximum-product-of-three-numbers](https://github.com/Manada-57/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manada-57/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Manada-57/leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0812-largest-triangle-area](https://github.com/Manada-57/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0832-flipping-an-image](https://github.com/Manada-57/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Manada-57/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/Manada-57/leetcode/tree/main/0877-stone-game/) | Medium |
@@ -325,6 +326,7 @@ solved problems
 | [0628-maximum-product-of-three-numbers](https://github.com/Manada-57/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Manada-57/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
+| [0812-largest-triangle-area](https://github.com/Manada-57/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
 | [0877-stone-game](https://github.com/Manada-57/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/Manada-57/leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
@@ -387,6 +389,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/Manada-57/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+| [0812-largest-triangle-area](https://github.com/Manada-57/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Manada-57/leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Manada-57/leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Manada-57/leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
