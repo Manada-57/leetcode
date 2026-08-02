@@ -336,6 +336,7 @@ solved problems
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manada-57/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Manada-57/leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Manada-57/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [2523-closest-prime-numbers-in-range](https://github.com/Manada-57/leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Manada-57/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manada-57/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3099-harshad-number](https://github.com/Manada-57/leetcode/tree/main/3099-harshad-number/) | Easy |
@@ -573,6 +574,7 @@ solved problems
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Manada-57/leetcode/tree/main/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manada-57/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2523-closest-prime-numbers-in-range](https://github.com/Manada-57/leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manada-57/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manada-57/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
