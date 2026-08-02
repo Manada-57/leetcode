@@ -312,6 +312,7 @@ solved problems
 | [0012-integer-to-roman](https://github.com/Manada-57/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0060-permutation-sequence](https://github.com/Manada-57/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/Manada-57/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/Manada-57/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/Manada-57/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/Manada-57/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
