@@ -136,6 +136,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Manada-57/leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/Manada-57/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0217-contains-duplicate](https://github.com/Manada-57/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Manada-57/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -209,6 +210,7 @@ solved problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Manada-57/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Manada-57/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0118-pascals-triangle](https://github.com/Manada-57/leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/Manada-57/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0204-count-primes](https://github.com/Manada-57/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manada-57/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manada-57/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -314,6 +316,7 @@ solved problems
 | [0012-integer-to-roman](https://github.com/Manada-57/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0060-permutation-sequence](https://github.com/Manada-57/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/Manada-57/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/Manada-57/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/Manada-57/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/Manada-57/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/Manada-57/leetcode/tree/main/0263-ugly-number/) | Easy |
@@ -388,6 +391,7 @@ solved problems
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/Manada-57/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0478-generate-random-point-in-a-circle](https://github.com/Manada-57/leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0812-largest-triangle-area](https://github.com/Manada-57/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Manada-57/leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
