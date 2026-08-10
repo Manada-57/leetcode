@@ -109,6 +109,7 @@ solved problems
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
 | [0877-stone-game](https://github.com/Manada-57/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Manada-57/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Manada-57/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/Manada-57/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Manada-57/leetcode/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
@@ -234,6 +235,7 @@ solved problems
 | [0883-projection-area-of-3d-shapes](https://github.com/Manada-57/leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0912-sort-an-array](https://github.com/Manada-57/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1093-statistics-from-a-large-sample](https://github.com/Manada-57/leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
+| [1140-stone-game-ii](https://github.com/Manada-57/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Manada-57/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Manada-57/leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Manada-57/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -342,6 +344,7 @@ solved problems
 | [0883-projection-area-of-3d-shapes](https://github.com/Manada-57/leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manada-57/leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1093-statistics-from-a-large-sample](https://github.com/Manada-57/leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
+| [1140-stone-game-ii](https://github.com/Manada-57/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/Manada-57/leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manada-57/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/Manada-57/leetcode/tree/main/1323-maximum-69-number/) | Easy |
@@ -462,6 +465,7 @@ solved problems
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Manada-57/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Manada-57/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Manada-57/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Manada-57/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -615,9 +619,18 @@ solved problems
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Manada-57/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Manada-57/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Manada-57/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Manada-57/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Manada-57/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Manada-57/leetcode/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Manada-57/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
