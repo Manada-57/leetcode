@@ -104,6 +104,7 @@ solved problems
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Manada-57/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0118-pascals-triangle](https://github.com/Manada-57/leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0337-house-robber-iii](https://github.com/Manada-57/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0338-counting-bits](https://github.com/Manada-57/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Manada-57/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/Manada-57/leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -547,12 +548,14 @@ solved problems
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Manada-57/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Manada-57/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0337-house-robber-iii](https://github.com/Manada-57/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Manada-57/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Manada-57/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Manada-57/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0337-house-robber-iii](https://github.com/Manada-57/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Manada-57/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -602,6 +605,7 @@ solved problems
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Manada-57/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Manada-57/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0337-house-robber-iii](https://github.com/Manada-57/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manada-57/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Manada-57/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Manada-57/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -650,4 +654,8 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Manada-57/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0337-house-robber-iii](https://github.com/Manada-57/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 <!---LeetCode Topics End-->
