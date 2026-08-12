@@ -226,6 +226,7 @@ solved problems
 | [0219-contains-duplicate-ii](https://github.com/Manada-57/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Manada-57/leetcode/tree/main/0274-h-index/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Manada-57/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Manada-57/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Manada-57/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0561-array-partition](https://github.com/Manada-57/leetcode/tree/main/0561-array-partition/) | Easy |
@@ -315,6 +316,7 @@ solved problems
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Manada-57/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Manada-57/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/Manada-57/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Manada-57/leetcode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [1603-design-parking-system](https://github.com/Manada-57/leetcode/tree/main/1603-design-parking-system/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/Manada-57/leetcode/tree/main/1656-design-an-ordered-stream/) | Easy |
@@ -474,6 +476,7 @@ solved problems
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Manada-57/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1140-stone-game-ii](https://github.com/Manada-57/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Manada-57/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Manada-57/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
