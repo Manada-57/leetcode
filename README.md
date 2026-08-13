@@ -104,6 +104,7 @@ solved problems
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Manada-57/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0118-pascals-triangle](https://github.com/Manada-57/leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Manada-57/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0337-house-robber-iii](https://github.com/Manada-57/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0338-counting-bits](https://github.com/Manada-57/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Manada-57/leetcode/tree/main/0392-is-subsequence/) | Easy |
@@ -229,6 +230,7 @@ solved problems
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Manada-57/leetcode/tree/main/0274-h-index/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Manada-57/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Manada-57/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Manada-57/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Manada-57/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0561-array-partition](https://github.com/Manada-57/leetcode/tree/main/0561-array-partition/) | Easy |
@@ -465,6 +467,7 @@ solved problems
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Manada-57/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0832-flipping-an-image](https://github.com/Manada-57/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Manada-57/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Manada-57/leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
@@ -581,6 +584,7 @@ solved problems
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Manada-57/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Manada-57/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Manada-57/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manada-57/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Manada-57/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manada-57/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -596,6 +600,7 @@ solved problems
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Manada-57/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manada-57/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Manada-57/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Manada-57/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -610,6 +615,7 @@ solved problems
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Manada-57/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Manada-57/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Manada-57/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0337-house-robber-iii](https://github.com/Manada-57/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manada-57/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Manada-57/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -667,4 +673,16 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Manada-57/leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Manada-57/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Manada-57/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Manada-57/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
