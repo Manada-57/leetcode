@@ -104,6 +104,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Manada-57/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0063-unique-paths-ii](https://github.com/Manada-57/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Manada-57/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manada-57/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0337-house-robber-iii](https://github.com/Manada-57/leetcode/tree/main/0337-house-robber-iii/) | Medium |
@@ -224,6 +225,7 @@ solved problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Manada-57/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Manada-57/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0056-merge-intervals](https://github.com/Manada-57/leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Manada-57/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Manada-57/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Manada-57/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0204-count-primes](https://github.com/Manada-57/leetcode/tree/main/0204-count-primes/) | Medium |
@@ -470,6 +472,7 @@ solved problems
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Manada-57/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manada-57/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0832-flipping-an-image](https://github.com/Manada-57/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Manada-57/leetcode/tree/main/0867-transpose-matrix/) | Easy |
