@@ -175,6 +175,7 @@ solved problems
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Manada-57/leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manada-57/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Manada-57/leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Manada-57/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Manada-57/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Manada-57/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/Manada-57/leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -301,6 +302,7 @@ solved problems
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manada-57/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/Manada-57/leetcode/tree/main/3379-transformed-array/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Manada-57/leetcode/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Manada-57/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Manada-57/leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Manada-57/leetcode/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manada-57/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
