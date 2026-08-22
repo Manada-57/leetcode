@@ -565,6 +565,7 @@ solved problems
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Manada-57/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Manada-57/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Manada-57/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0337-house-robber-iii](https://github.com/Manada-57/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Manada-57/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
@@ -572,6 +573,7 @@ solved problems
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Manada-57/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Manada-57/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Manada-57/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0337-house-robber-iii](https://github.com/Manada-57/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Manada-57/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Segment Tree
@@ -593,6 +595,7 @@ solved problems
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Manada-57/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Manada-57/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Manada-57/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manada-57/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manada-57/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Manada-57/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -624,6 +627,7 @@ solved problems
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Manada-57/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Manada-57/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Manada-57/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manada-57/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0337-house-robber-iii](https://github.com/Manada-57/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manada-57/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
