@@ -66,6 +66,7 @@ solved problems
 | [0520-detect-capital](https://github.com/Manada-57/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Manada-57/leetcode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Manada-57/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0551-student-attendance-record-i](https://github.com/Manada-57/leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manada-57/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Manada-57/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Manada-57/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
