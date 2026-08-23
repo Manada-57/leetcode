@@ -63,6 +63,7 @@ solved problems
 | [0415-add-strings](https://github.com/Manada-57/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/Manada-57/leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Manada-57/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0520-detect-capital](https://github.com/Manada-57/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Manada-57/leetcode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manada-57/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Manada-57/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
