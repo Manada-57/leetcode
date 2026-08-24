@@ -68,6 +68,7 @@ solved problems
 | [0541-reverse-string-ii](https://github.com/Manada-57/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Manada-57/leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manada-57/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Manada-57/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Manada-57/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Manada-57/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Manada-57/leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -139,6 +140,7 @@ solved problems
 | [0392-is-subsequence](https://github.com/Manada-57/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Manada-57/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manada-57/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Manada-57/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Manada-57/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0832-flipping-an-image](https://github.com/Manada-57/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Manada-57/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -508,6 +510,7 @@ solved problems
 | [0409-longest-palindrome](https://github.com/Manada-57/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0561-array-partition](https://github.com/Manada-57/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/Manada-57/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Manada-57/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manada-57/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1323-maximum-69-number](https://github.com/Manada-57/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manada-57/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
