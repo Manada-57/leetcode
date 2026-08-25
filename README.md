@@ -185,6 +185,7 @@ solved problems
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manada-57/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Manada-57/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Manada-57/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Manada-57/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Manada-57/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manada-57/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting
@@ -317,6 +318,7 @@ solved problems
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manada-57/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Manada-57/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3637-trionic-array-i](https://github.com/Manada-57/leetcode/tree/main/3637-trionic-array-i/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Manada-57/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Manada-57/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manada-57/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Manada-57/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
