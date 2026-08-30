@@ -293,6 +293,7 @@ solved problems
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Manada-57/leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manada-57/leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Manada-57/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2418-sort-the-people](https://github.com/Manada-57/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Manada-57/leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Manada-57/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -525,6 +526,7 @@ solved problems
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manada-57/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1323-maximum-69-number](https://github.com/Manada-57/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manada-57/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Manada-57/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manada-57/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manada-57/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Manada-57/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
