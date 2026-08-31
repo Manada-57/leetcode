@@ -32,8 +32,6 @@ class Solution {
             temp=temp.next;
             
         }
-        for(int j=0;j<arr.length;j++)
-        System.out.println(arr[j]);
         if(i<2)
         return new int[]{-1,-1};
         int mind=Integer.MAX_VALUE;
