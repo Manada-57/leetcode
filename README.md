@@ -325,6 +325,7 @@ solved problems
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manada-57/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Manada-57/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Manada-57/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manada-57/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3637-trionic-array-i](https://github.com/Manada-57/leetcode/tree/main/3637-trionic-array-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Manada-57/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Manada-57/leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -412,6 +413,7 @@ solved problems
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Manada-57/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Manada-57/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Manada-57/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manada-57/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Manada-57/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manada-57/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Manada-57/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
