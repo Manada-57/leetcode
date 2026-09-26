@@ -120,6 +120,7 @@ solved problems
 | [0808-soup-servings](https://github.com/Manada-57/leetcode/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
 | [0877-stone-game](https://github.com/Manada-57/leetcode/tree/main/0877-stone-game/) | Medium |
+| [0887-super-egg-drop](https://github.com/Manada-57/leetcode/tree/main/0887-super-egg-drop/) | Hard |
 | [1140-stone-game-ii](https://github.com/Manada-57/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Manada-57/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/Manada-57/leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -383,6 +384,7 @@ solved problems
 | [0837-new-21-game](https://github.com/Manada-57/leetcode/tree/main/0837-new-21-game/) | Medium |
 | [0877-stone-game](https://github.com/Manada-57/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/Manada-57/leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0887-super-egg-drop](https://github.com/Manada-57/leetcode/tree/main/0887-super-egg-drop/) | Hard |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manada-57/leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1093-statistics-from-a-large-sample](https://github.com/Manada-57/leetcode/tree/main/1093-statistics-from-a-large-sample/) | Medium |
 | [1140-stone-game-ii](https://github.com/Manada-57/leetcode/tree/main/1140-stone-game-ii/) | Medium |
@@ -426,6 +428,7 @@ solved problems
 | [0268-missing-number](https://github.com/Manada-57/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0441-arranging-coins](https://github.com/Manada-57/leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manada-57/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0887-super-egg-drop](https://github.com/Manada-57/leetcode/tree/main/0887-super-egg-drop/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Manada-57/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manada-57/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manada-57/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
