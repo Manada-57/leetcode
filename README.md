@@ -86,6 +86,7 @@ solved problems
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manada-57/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2103-rings-and-rods](https://github.com/Manada-57/leetcode/tree/main/2103-rings-and-rods/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Manada-57/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2315-count-asterisks](https://github.com/Manada-57/leetcode/tree/main/2315-count-asterisks/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Manada-57/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/Manada-57/leetcode/tree/main/2418-sort-the-people/) | Easy |
@@ -494,6 +495,7 @@ solved problems
 | [1929-concatenation-of-array](https://github.com/Manada-57/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manada-57/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manada-57/leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Manada-57/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Manada-57/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Manada-57/leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3379-transformed-array](https://github.com/Manada-57/leetcode/tree/main/3379-transformed-array/) | Easy |
