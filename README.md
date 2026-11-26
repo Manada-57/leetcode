@@ -420,6 +420,7 @@ solved problems
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manada-57/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manada-57/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Manada-57/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3360-stone-removal-game](https://github.com/Manada-57/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manada-57/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manada-57/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3516-find-closest-person](https://github.com/Manada-57/leetcode/tree/main/3516-find-closest-person/) | Easy |
@@ -500,6 +501,7 @@ solved problems
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Manada-57/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Manada-57/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Manada-57/leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3360-stone-removal-game](https://github.com/Manada-57/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3379-transformed-array](https://github.com/Manada-57/leetcode/tree/main/3379-transformed-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Manada-57/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Manada-57/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
